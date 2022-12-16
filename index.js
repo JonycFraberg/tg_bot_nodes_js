@@ -81,4 +81,4 @@ bot.on("message", (msg) => {
     bot.sendAudio(msg.chat.id, "res/audio.mp3");
   }
 });
-bot.on("message", (msg) => {});
+// bot.on("message", (msg) => {});
